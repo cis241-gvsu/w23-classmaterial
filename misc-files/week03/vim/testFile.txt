@@ -1,0 +1,14 @@
+Hello!
+This is a text file for playing with vim.
+It just has a few lines of text that don't mean anything.
+whatever, meaning is overrated anyways.
+this-line-is-not-space/separated-except-for/the last couple words
+Another sentence. This line should be deleted.
+Delete all the this : hello hello hello goodbye
+Delete all everything after the colon:  hello how r u? goodbye
+
+this is just another line,
+followed by another line,
+and one last line
+
+Goodbye!

@@ -1,0 +1,10 @@
+hello..someone@goodbye.com
+john.doe.@goodbye.com
+.john.doe@goodbye.com
+@goodbye.com
+bobby.baratheon@kings--landing.seven-kingdoms.got
+john.snow@the..wall.got
+cersei.lanister@kings-landing
+cersei.lanister@kings-landing.g-o-t
+rajesh-@caltech.edu
+amy.@wherever-she-works.edu

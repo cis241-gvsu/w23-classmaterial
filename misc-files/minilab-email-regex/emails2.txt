@@ -1,0 +1,6 @@
+jane.smith@gvsu.edu
+bobby.baratheon@kings-landing.seven-kingdoms.got
+bobby.baratheon@kings--landing.seven-kingdoms.got
+john.snow@the..wall.got
+cersei.lanister@kings-landing
+cersei.lanister@kings-landing.g-o-t

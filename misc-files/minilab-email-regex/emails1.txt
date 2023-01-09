@@ -1,0 +1,7 @@
+hello@goodbye.com
+hello..someone@goodbye.com
+hello.someone@goodbye.com
+john.doe.@goodbye.com
+.john.doe@goodbye.com
+@goodbye.com
+johndoe.number1@random.company.co

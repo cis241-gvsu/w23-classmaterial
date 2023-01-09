@@ -1,0 +1,15 @@
+hibye
+hi
+bye!
+hiye!
+hihihi?
+616-123-4567
+6161234567
+hihihihi
+hihihihihi
+byebyebye
+a line with (only (hello) in) the middle
+hbye
+( this is a line ) it has multiple ()
+( this is a line it has multiple parentheses but also has numbers 1 2 3 )
+( this is a line with numbers 1 2 3 and % @ )

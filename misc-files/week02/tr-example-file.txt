@@ -1,0 +1,15 @@
+This is a sentence.
+
+This is another sentence.
+
+THIS SENTENCE IS IN ALL CAPS.
+
+Hickory Dickory Dock.
+
+The mouse went up the clock.
+
+The clock struck one.
+
+The mouse went down.
+
+Hickory Dickory Dock.

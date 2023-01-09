@@ -1,0 +1,5 @@
+To generate and open in browser
+    reveal-md filename -w
+
+To generate pdf version of slides
+    reveal-md filename.md --print filename.pdf
