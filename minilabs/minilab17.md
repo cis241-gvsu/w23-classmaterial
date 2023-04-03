@@ -12,11 +12,14 @@ This function should check whether `op` is `+`, `-`, `*`, or `/`
 using a switch statement and perform the resulting operation between
 `a` and `b` and print the output.
 
-The header file should contain the function prototype
+The header file should contain the function prototype.
 
 ## Part 2:
 Create another file with your main function that initializes variables and
 calls the `perform_operation` function.
+
+## Part 3:
+Create a makefile for this code.
 
 ## Part 3 (optional):
 Modify your main file to accept two numbers and a character as input from the user.
